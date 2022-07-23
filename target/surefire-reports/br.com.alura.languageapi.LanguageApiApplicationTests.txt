@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.alura.languageapi.LanguageApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.606 s - in br.com.alura.languageapi.LanguageApiApplicationTests
